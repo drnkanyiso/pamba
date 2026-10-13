@@ -1,18 +1,17 @@
 ---
-title: "Protection Spells"
-description: "Traditional protection rituals for concerns about your home, business, relationships, or personal life."
-featured_image: "/images/services/protection-spells.png"
-image_alt: "A welcoming home entrance surrounded by green plants"
+title: "Spiritual Protection & Peace"
+description: "Discuss spiritual concerns about your surroundings, relationships and sense of peace."
+featured_image: "/images/dr-pamba/protection-spells.png"
+image_alt: "A wooden doorway opening onto a peaceful green courtyard"
 weight: 6
 ---
 
-Dr. Nkanyiso describes protection rituals for concerns about hostility, negative energy, troubling dreams, or spiritual influences. These practices reflect spiritual beliefs; personal safety also requires practical precautions and appropriate help when facing physical threats.
+When your home, work or relationships feel unsettled, it helps to describe the concern clearly. Dr Pamba offers traditional protection consultations for people who interpret some of their experiences through spiritual beliefs.
 
-## Focus areas
+## Name the concern
 
-- Business protection: spiritual concerns about competition, hostility, and business setbacks.
-- Home protection: rituals associated with family peace and concerns about negative energy or planted charms.
-- Love and relationship protection: concerns about outside interference, trust, and stability in marriage or relationships.
-- Protection at work: spiritual support around workplace rivalry, job security, and fears of hostility.
-- Personal protection: concerns involving land boundaries, inheritance, robbery, or relationship disputes.
-- Protection from evil spirits: consultations about spiritual beliefs, unsettling dreams, and experiences attributed to spirits.
+Your conversation might involve family tensions, unsettling dreams, worries about outside interference or difficulties at work. Ask how a proposed prayer or ritual relates to the issue you have described and what participation would involve.
+
+## Keep practical support close
+
+A spiritual interpretation does not establish that a curse, spirit or hostile act caused an experience. Take practical steps where there are safety concerns, and seek appropriate professional support for ongoing distress. Physical threats require practical protection and help, regardless of spiritual beliefs.

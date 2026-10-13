@@ -1,16 +1,17 @@
 ---
-title: "Love Spells and Relationships"
-description: "Love spell caster consultations with Dr. Nkanyiso for breakup concerns, reconciliation and relationship guidance. Personal choices and outcomes vary."
-featured_image: "/images/services/love-spells-and-relationships.png"
-image_alt: "A couple sharing a quiet moment together in a garden"
-image_focus: "Top"
+title: "Love, Connection & New Beginnings"
+description: "A personal conversation about heartbreak, companionship and the possibility of reconnecting."
+featured_image: "/images/dr-pamba/love-spells-and-relationships.png"
+image_alt: "A couple walking hand in hand along a leafy garden path"
 weight: 1
 ---
 
-Have you experienced a breakup, unreturned feelings, loss of interest, humiliation, or recurring arguments? Dr. Nkanyiso offers spiritual consultations about reconciliation, loneliness, finding a suitable partner, and building trust, loyalty, and lasting bonds.
+A relationship can leave questions long after a conversation ends. Perhaps you miss someone, feel uncertain about a new connection, or want to understand why the same difficulties keep returning. Bring those concerns to Dr Pamba for a traditional spiritual consultation.
 
-His practice includes love spellwork and traditional charms. Reconciliation and its timing depend on the freely made choices of everyone involved.
+## Make room for your story
 
-## Love spell caster consultations
+Talk about what has changed, what you hope for and what you need from a relationship. Dr Pamba can explain the prayer, ritual or traditional love spellwork associated with his practice so you can decide whether this approach fits your beliefs.
 
-If you are hoping to bring an ex lover back, a consultation provides an opportunity to discuss your concerns and Dr. Nkanyiso's traditional spiritual approach. Respect the other person's boundaries and choices when considering reconciliation.
+## Reconnection is a shared choice
+
+A meaningful reunion requires willingness from both people. Spiritual work cannot guarantee another person's affection or override their boundaries. Where contact is welcome, consider what honest communication and renewed trust would require. Where it is unwelcome, respect that decision.

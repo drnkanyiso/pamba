@@ -1,0 +1,95 @@
+{
+  "generator": "Built-in image_gen",
+  "images": [
+    {
+      "slug": "hero",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba spiritual consultation website hero photo. Create a high-end natural editorial photograph: a sunlit veranda overlooking lush East African tropical greenery, a rustic wooden table bearing a shallow clay bowl filled with fresh aromatic leaves, a small wooden mortar, warm cream linen, botanical branches and soft shadows. A calm, grounded, welcoming scene. Color palette forest green, sage, warm earth, ivory; absolutely no purple. Landscape 3:2 composition with the meaningful objects centrally grouped so it crops well to a tall right-hand website panel. Authentic natural materials and subtle film grain. No people, no lettering, no logos, no watermarks, no collage.",
+      "alt": "Fresh leaves and a wooden mortar on a sunlit veranda overlooking tropical greenery",
+      "file": "assets/images/dr-pamba/hero.png"
+    },
+    {
+      "slug": "about",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. Close-up of adult African hands gently sorting fresh green leaves on a woven reed mat, a clay bowl and a wooden mortar, beside a sunlit garden window. Hands only, no face. Cohesive natural editorial photography, forest green and sage foliage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third, enough breathing room for both landscape and narrow portrait card crops. No purple, no lettering, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "Hands sorting fresh leaves beside a clay bowl and wooden mortar",
+      "file": "assets/images/dr-pamba/about.png"
+    },
+    {
+      "slug": "love-spells-and-relationships",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A Black East African adult couple holding hands while walking along a shaded lush green garden path. Natural candid interaction, linen and olive clothing. People centrally framed, medium distance, faces readable. Cohesive natural editorial photography, forest green and sage foliage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third, enough breathing room for both landscape and narrow portrait card crops. No purple, no lettering, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "A couple walking hand in hand along a leafy garden path",
+      "file": "assets/images/dr-pamba/love-spells-and-relationships.png"
+    },
+    {
+      "slug": "marriage-spells",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. Close photograph of two interlaced adult Black hands wearing plain gold wedding bands, resting on cream linen, with soft out-of-focus green foliage behind them. Quiet intimate dignity. Cohesive natural editorial photography, forest green and sage foliage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third, enough breathing room for both landscape and narrow portrait card crops. No purple, no lettering, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "Joined hands wearing wedding bands against soft green foliage",
+      "file": "assets/images/dr-pamba/marriage-spells.png"
+    },
+    {
+      "slug": "mens-sexual-wellbeing",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A Black East African adult man in olive casual clothing seated peacefully on a stone bench in a lush garden, relaxed thoughtful posture. Candid wellbeing photo, no clinical scene. Cohesive natural editorial photography, forest green and sage foliage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third, enough breathing room for both landscape and narrow portrait card crops. No purple, no lettering, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "A man seated quietly on a garden bench",
+      "file": "assets/images/dr-pamba/mens-sexual-wellbeing.png"
+    },
+    {
+      "slug": "promotion-at-work",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A Black East African adult woman reviewing a plain notebook at an oak desk beside a plant-filled office window. Forest-green blouse, relaxed confident focus, no readable text. Cohesive natural editorial photography, forest green and sage foliage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third, enough breathing room for both landscape and narrow portrait card crops. No purple, no lettering, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "A professional reviewing her notebook in a bright plant-filled workspace",
+      "file": "assets/images/dr-pamba/promotion-at-work.png"
+    },
+    {
+      "slug": "talent-boosting",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. Close candid photograph of an adult Black musician's hands playing a wooden acoustic guitar outdoors beneath leafy trees. Honey wood instrument, muted sage shirt. Face out of frame. Cohesive natural editorial photography, forest green and sage foliage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third, enough breathing room for both landscape and narrow portrait card crops. No purple, no lettering, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "Hands playing an acoustic guitar beneath leafy trees",
+      "file": "assets/images/dr-pamba/talent-boosting.png"
+    },
+    {
+      "slug": "protection-spells",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A peaceful East African home courtyard, a solid wooden doorway surrounded by lush ferns, a terracotta planter and soft late-afternoon sunlight. Strong centered doorway composition. Cohesive natural editorial photography, forest green and sage foliage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third, enough breathing room for both landscape and narrow portrait card crops. No purple, no lettering, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "A wooden doorway opening onto a peaceful green courtyard",
+      "file": "assets/images/dr-pamba/protection-spells.png"
+    },
+    {
+      "slug": "educational-solutions",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A Black East African adult university student studying at a wooden table next to a garden window, one open notebook and books, muted olive clothing. Central thoughtful student, quiet natural setting. Cohesive natural editorial photography, forest green and sage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third for landscape and narrow portrait card crops. No purple, no readable text, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "A student studying by a garden window",
+      "file": "assets/images/dr-pamba/educational-solutions.png"
+    },
+    {
+      "slug": "magic-rings",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A single handmade brass ring with a deep green polished stone on an ivory linen cloth, fresh leaves softly blurred behind, macro still-life editorial photo, ring centrally placed, realistic artisan metalwork. Cohesive natural editorial photography, forest green and sage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third for landscape and narrow portrait card crops. No purple, no readable text, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "A handmade brass ring with a green stone on ivory linen",
+      "file": "assets/images/dr-pamba/magic-rings.png"
+    },
+    {
+      "slug": "lost-properties",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A leather key holder, simple metal keys and a closed worn leather wallet resting together at the center of a wooden entryway shelf, a green leafy houseplant behind. Calm everyday still life, no documents or lettering. Cohesive natural editorial photography, forest green and sage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third for landscape and narrow portrait card crops. No purple, no readable text, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "Keys and a leather wallet on a wooden shelf",
+      "file": "assets/images/dr-pamba/lost-properties.png"
+    },
+    {
+      "slug": "court-case-consultations",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. An understated brass balance scale centered on a dark wooden desk next to a closed plain unlettered notebook, tall green plants and soft window light in background. Quiet dignified still-life photograph. Cohesive natural editorial photography, forest green and sage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third for landscape and narrow portrait card crops. No purple, no readable text, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "Brass balance scales and a plain notebook in soft window light",
+      "file": "assets/images/dr-pamba/court-case-consultations.png"
+    },
+    {
+      "slug": "article-love",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A Black East African adult couple sitting together on a wooden garden bench sharing tea, a small natural affectionate smile, lush green foliage, central medium-distance candid composition. Cohesive natural editorial photography, forest green and sage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third for landscape and narrow portrait card crops. No purple, no readable text, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "A couple sharing tea on a garden bench",
+      "file": "assets/images/dr-pamba/article-love.png"
+    },
+    {
+      "slug": "article-relationship-problems",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. Two Black East African adults seated across a small wooden table in a calm plant-filled living room, listening to each other with thoughtful relaxed expressions, conversation rather than an argument. Main figures centrally grouped. Cohesive natural editorial photography, forest green and sage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third for landscape and narrow portrait card crops. No purple, no readable text, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "Two adults listening to each other in a calm living room",
+      "file": "assets/images/dr-pamba/article-relationship-problems.png"
+    },
+    {
+      "slug": "article-traditions",
+      "prompt": "Use case: photorealistic-natural. Asset type: Dr Pamba website image. A neat arrangement of carved wooden mortar, woven basket with fresh green leaves, a small unglazed terracotta bowl on a warm natural wooden table under soft window light, lush greenery blurred in background. Tight central arrangement, no people. Cohesive natural editorial photography, forest green and sage, warm earth and ivory palette, realistic textures, gentle natural light, subtle film grain. Landscape 3:2. Main subject in center third for landscape and narrow portrait card crops. No purple, no readable text, no watermark, no logos, no collage. People are anonymous illustrative subjects, never posed as Dr Pamba.",
+      "alt": "A wooden mortar, woven basket and clay bowl with fresh leaves",
+      "file": "assets/images/dr-pamba/article-traditions.png"
+    }
+  ]
+}

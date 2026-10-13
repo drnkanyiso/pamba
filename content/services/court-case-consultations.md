@@ -1,11 +1,17 @@
 ---
-title: "Court Case Consultations"
-description: "Spiritual support during legal disputes, family proceedings, or concerns about court judgments."
-featured_image: "/images/services/court-case-consultations.png"
-image_alt: "Brass balance scales beside a closed law book"
+title: "Support Through Legal Uncertainty"
+description: "Spiritual reflection during a dispute, hearing or difficult family proceeding."
+featured_image: "/images/dr-pamba/court-case-consultations.png"
+image_alt: "Brass balance scales and a plain notebook in soft window light"
 weight: 10
 ---
 
-Legal disputes can place strain on families, time, and finances. Dr. Nkanyiso describes prayers and rituals for people seeking spiritual support during employment disputes, land matters, divorce, family proceedings, or concerns about imprisonment and judgments.
+Waiting for a hearing or dealing with a dispute can make the rest of life feel suspended. People facing family, land or employment proceedings may seek a spiritual conversation alongside the practical demands of their case.
 
-Court decisions depend on the evidence and applicable law. Consult a qualified lawyer about your case and any appeal; spiritual support does not replace legal representation or court procedures.
+## A place to express the worry
+
+Dr Pamba's practice includes prayers and rituals for people seeking spiritual support during legal uncertainty. Discuss what is weighing on you and ask what a consultation would involve.
+
+## Keep legal advice in charge of the case
+
+Court outcomes depend on evidence, applicable law and the legal process. Follow your lawyer's advice, meet deadlines and attend required proceedings. Spiritual support cannot influence a judge, guarantee a judgment or replace legal representation.

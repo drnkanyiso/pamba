@@ -1,19 +1,19 @@
 baseURL = "https://drnkanyiso.com/"
 languageCode = "en-us"
-title = "Dr. Nkanyiso"
+title = "Dr Pamba"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  footer_description = "Traditional spiritual guidance rooted in ancestral knowledge and African values."
+  footer_description = "A place for personal questions, African traditional practices and considered choices."
   hours = ["Open 24/7 — Every day"]
-  description = "Dr. Nkanyiso describes a practice rooted in African traditional values, ancestral knowledge, herbalism, and spiritual consultation."
-  phone = "+254182952671"
+  description = "Explore spiritual consultation with Dr Pamba through African ancestral knowledge, prayer and traditional practices."
+  phone = "+254717107950"
   email = ""
-  whatsapp_url = "https://wa.me/254182952671"
-  logo = "/images/logo.png"
-  footer_logo = "/images/logo-footer.png"
-  default_image = "/images/home-hero-v2.png"
+  whatsapp_url = "https://wa.me/254717107950"
+  logo = "/images/dr-pamba-mark.svg"
+  footer_logo = "/images/dr-pamba-mark.svg"
+  default_image = "/images/dr-pamba/hero.png"
 
 [[menu.main]]
   name = "Home"
@@ -21,22 +21,22 @@ disableKinds = ["taxonomy", "term"]
   weight = 10
 
 [[menu.main]]
-  name = "About Us"
+  name = "Meet Dr Pamba"
   url = "/about-us/"
   weight = 20
 
 [[menu.main]]
-  name = "Our Services"
+  name = "Areas of Guidance"
   url = "/services/"
   weight = 30
 
 [[menu.main]]
-  name = "Insights"
+  name = "Perspectives"
   url = "/blog/"
   weight = 40
 
 [[menu.main]]
-  name = "Contact Us"
+  name = "Connect"
   url = "/contact-us/"
   weight = 50
 

@@ -1,5 +1,5 @@
 <article class="article-card">
-<a class="article-card-image" href="{{ .RelPermalink }}" aria-label="Read {{ .Title }}">{{ with .Params.featured_image }}<img src="{{ . | relURL }}" alt="{{ $.Params.image_alt | default "" }}" loading="lazy" width="800" height="520">{{ end }}</a>
+<a class="article-card-image" href="{{ .RelPermalink }}" aria-label="Read {{ .Title }}">{{ partial "article-image.html" (dict "page" . "detail" false) }}</a>
 <div class="article-card-copy">
 <p class="article-date"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time> &middot; {{ .ReadingTime }} min read</p>
 <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2><p>{{ .Description | default .Summary }}</p>

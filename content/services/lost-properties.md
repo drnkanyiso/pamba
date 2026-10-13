@@ -1,11 +1,17 @@
 ---
-title: "Lost Properties"
-description: "Discuss missing or stolen belongings and the circumstances surrounding their loss."
-featured_image: "/images/services/lost-properties.png"
-image_alt: "A wallet, keys, and document folder on a tabletop"
+title: "Missing Belongings & Personal Loss"
+description: "Talk through the worry of a lost possession while keeping practical recovery steps in view."
+featured_image: "/images/dr-pamba/lost-properties.png"
+image_alt: "Keys and a leather wallet on a wooden shelf"
 weight: 9
 ---
 
-Losing hard-earned belongings or experiencing theft can be distressing. Dr. Nkanyiso offers spiritual consultation about missing household items, electronics, business goods, shipments, educational documents, and animals.
+The loss of an important possession can disrupt daily life and leave you replaying what happened. Dr Pamba offers spiritual consultations for people seeking support around missing belongings, documents, business goods or animals.
 
-Share what was lost and any known circumstances or possible location. Recovery and timing depend on the circumstances; spiritual consultation does not replace reporting theft or using practical recovery channels.
+## Start with what you know
+
+Describe the item, when you last had it and the steps you have already taken. Clear details help frame the conversation without treating suspicion as proof about a person or place.
+
+## Continue the search through practical channels
+
+Report suspected theft to the appropriate authorities, contact relevant providers and secure accounts or documents where necessary. Spiritual consultation cannot locate an item with certainty, identify a thief or guarantee recovery.

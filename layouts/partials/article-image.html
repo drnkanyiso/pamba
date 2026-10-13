@@ -1,0 +1,8 @@
+{{ $page := .page }}
+{{ with resources.Get (strings.TrimPrefix "/" $page.Params.featured_image) }}
+  {{ $small := .Resize "640x jpg q82" }}
+  {{ $large := .Resize "1200x jpg q85" }}
+  <img {{ if $.detail }}class="article-cover"{{ end }} src="{{ if $.detail }}{{ $large.RelPermalink }}{{ else }}{{ $small.RelPermalink }}{{ end }}" srcset="{{ $small.RelPermalink }} 640w, {{ $large.RelPermalink }} 1200w" sizes="{{ if $.detail }}(max-width: 800px) calc(100vw - 32px), 900px{{ else }}(max-width: 680px) calc(100vw - 32px), 384px{{ end }}" alt="{{ $page.Params.image_alt }}" width="{{ $large.Width }}" height="{{ $large.Height }}" {{ if $.detail }}fetchpriority="high"{{ else }}loading="lazy" decoding="async"{{ end }}>
+{{ else }}
+  {{ with $page.Params.featured_image }}<img {{ if $.detail }}class="article-cover"{{ end }} src="{{ . | relURL }}" alt="{{ $page.Params.image_alt }}" loading="lazy" width="800" height="520">{{ end }}
+{{ end }}

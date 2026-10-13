@@ -1,23 +1,27 @@
----
-title: "About Us"
-description: "Learn about Dr. Nkanyiso's practice as a traditional doctor, spiritual healer and herbalist, known in Swahili as a mganga wa nguvu."
+﻿---
+title: "The Practice Behind Dr Pamba"
+description: "Get to know an approach to spiritual consultation shaped by African traditions and individual circumstances."
 type: "about"
-featured_image: "/images/about-v2-1000.jpg"
-image_alt: "Hands arranging fresh herbs beside a wooden mortar and purple woven cloth"
+featured_image: "/images/dr-pamba/about.png"
+image_alt: "Hands sorting fresh leaves beside a clay bowl and wooden mortar"
 ---
 
-## Ancestral knowledge
+## A conversation before a practice
 
-Dr. Nkanyiso describes himself as a traditional doctor, herbalist, and spiritual healer. Some visitors use the terms witch doctor or mganga wa nguvu when seeking this kind of spiritual guidance. His stated approach draws on African traditional values, religious beliefs, and clan customs. Ancestors and spirits are an important part of his worldview.
+People arrive with different questions. Some concern a relationship; others involve family tensions, work or a change they cannot quite make sense of. Dr Pamba's traditional spiritual practice gives those questions a place in a personal conversation.
 
-## Spiritual practice
+The approach draws on African ancestral knowledge, prayer, rituals and herbal traditions. The starting point is the situation you describe and the beliefs through which you understand it.
 
-He describes using divination, rituals, prayer, chants, and spellwork as forms of spiritual practice. He says people approach him about love and family concerns, business, lost items, addiction, fertility, debt, financial instability, men's sexual wellbeing, political aspirations, gambling, and other personal matters. These services reflect spiritual beliefs, and individual experiences vary. Seek qualified professional advice for health, financial, or legal concerns.
+## Know what you are choosing
 
-## His stated mission
+A consultation should help you understand what is being proposed. Ask about the practices involved, any preparations, costs and the format of the meeting. You can begin by phone or WhatsApp and discuss whether a visit is needed.
 
-His larger mission, as he describes it, is to build a bridge between ancestral wisdom and modern science. He says his college education and indigenous knowledge give him perspective across both worlds.
+Take time to consider the answers. Your choices matter, as do the consent and boundaries of anyone else involved in your concern.
 
-## Health and wellbeing
+## Tradition alongside everyday responsibility
 
-His supplied biography also refers to herbal remedies and health conditions. This website does not claim that herbal or spiritual practices diagnose, treat, or cure illness. For arthritis, respiratory or heart conditions, diabetes, skin conditions, anxiety, depression, addiction, fertility concerns, or any other health issue, consult an appropriately qualified health professional. Do not delay or replace evidence-based care.
+Spiritual practices reflect beliefs rather than a guarantee of change. They do not replace medical care, counselling, legal representation or sound financial advice. Health symptoms and decisions about herbal products belong in a conversation with a qualified clinician.
+
+## Bring the question that matters to you
+
+You do not need to have every detail worked out before reaching out. [Speak with Dr Pamba](/contact-us/) about your concern and ask what an initial consultation would look like.

@@ -1,5 +1,5 @@
 {
-  "name": "dr-nkanyiso-site",
+  "name": "dr-pamba-site",
   "private": true,
   "scripts": {
     "start": "npm run css && hugo server --disableFastRender",

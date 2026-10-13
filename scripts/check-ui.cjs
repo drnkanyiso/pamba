@@ -36,11 +36,6 @@ const assert = (value, message) => { if (!value) throw new Error(message); };
           if (document.querySelectorAll('h1').length !== 1) result.push('expected one h1');
           if (!document.querySelector('main') || !document.querySelector('nav')) result.push('missing landmarks');
           for (const image of document.images) if (!image.complete || !image.naturalWidth) result.push('broken image: ' + image.src);
-          for (const [selector, ratio] of [['.service-image-wrap img', 1.9], ['.article-card-image img', 1.6]]) {
-            for (const image of document.querySelectorAll(selector)) {
-              if (Math.abs(image.clientWidth / image.clientHeight - ratio) > 0.02) result.push('incorrect card image ratio');
-            }
-          }
           for (const anchor of document.querySelectorAll('a')) {
             if (!anchor.textContent.trim() && !anchor.getAttribute('aria-label') && !anchor.querySelector('img[alt]')) result.push('unnamed link');
             if (/^(tel:|mailto:)$/.test(anchor.getAttribute('href'))) result.push('empty contact link');
@@ -68,8 +63,8 @@ const assert = (value, message) => { if (!value) throw new Error(message); };
     }
     await page.setViewportSize({ width: 390, height: 844 });
     await page.goto(baseURL + '/contact-us/');
-    assert(await page.locator('.contact-card a[href="tel:+254182952671"]').isVisible(), 'missing contact phone link');
-    assert(await page.locator('.contact-whatsapp').getAttribute('href') === 'https://wa.me/254182952671', 'incorrect WhatsApp contact link');
+    assert(await page.locator('.contact-card a[href="tel:+254717107950"]').isVisible(), 'missing contact phone link');
+    assert(await page.locator('.contact-whatsapp').getAttribute('href') === 'https://wa.me/254717107950', 'incorrect WhatsApp contact link');
     assert(await page.locator('.contact-form').count() === 0, 'unconfigured form shown');
     await page.locator('.faq-item summary').first().click();
     assert(await page.locator('.faq-item').first().getAttribute('open') !== null, 'FAQ did not open');

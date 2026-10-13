@@ -1,11 +1,17 @@
 ---
-title: "Marriage Spells"
-description: "Discuss commitment, separation, family disagreements, and finding harmony in marriage."
-featured_image: "/images/services/marriage-spells.png"
-image_alt: "Two wedding bands on linen beside lavender flowers"
+title: "Marriage & Family Harmony"
+description: "Explore spiritual support for commitment, difficult conversations and peace within the family."
+featured_image: "/images/dr-pamba/marriage-spells.png"
+image_alt: "Joined hands wearing wedding bands against soft green foliage"
 weight: 2
 ---
 
-Discuss infidelity, separation, divorce, family disputes, or relatives who oppose your marriage or religious beliefs. Dr. Nkanyiso describes marriage rituals intended to support harmony, forgiveness, and commitment.
+Life together brings changing responsibilities, expectations and pressures. When a marriage feels strained by distance, disagreements or family involvement, a consultation offers a place to explain what is happening without reducing it to a single argument.
 
-Consultations focus on rebuilding understanding and peace at home while respecting each partner's consent and decisions.
+## Talk through the strain
+
+You may wish to discuss separation, broken trust, conflicting beliefs or uncertainty about your future together. Dr Pamba's traditional practice includes marriage rituals associated with harmony, forgiveness and commitment.
+
+## Leave room for each partner
+
+Repair takes participation and freely given consent. Think about the changes each person is willing to make, and seek qualified relationship support when needed. No ritual promises that a marriage will continue or that a partner will change their mind.
