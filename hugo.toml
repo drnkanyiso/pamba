@@ -1,4 +1,4 @@
-baseURL = "https://www.doctorpamba.com/"
+baseURL = "https://doctorpamba.com/"
 languageCode = "en-us"
 title = "Dr Pamba"
 enableRobotsTXT = true
